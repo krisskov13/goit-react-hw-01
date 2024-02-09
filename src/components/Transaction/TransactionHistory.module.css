@@ -1,0 +1,19 @@
+.table {
+  margin: 15px 0 0 15px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.th {
+  padding: 10px 45px 10px 45px;
+  background-color: rgb(85, 107, 146);
+  color: white;
+  border: 1px solid black;
+}
+
+.td {
+  padding: 10px 45px 10px 45px;
+  text-align: center;
+  background-color: rgb(220, 235, 245);
+  border: 1px solid rgb(24, 24, 130);
+}

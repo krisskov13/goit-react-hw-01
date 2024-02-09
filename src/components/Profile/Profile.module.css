@@ -1,0 +1,46 @@
+.container {
+  margin: 15px;
+  border: 2px solid black;
+  width: 350px;
+}
+
+.img {
+  width: 220px;
+  margin: auto;
+  border-radius: 50%;
+  border: 2px solid black;
+}
+
+.user {
+  font-weight: 600;
+  font-size: 30px;
+  text-align: center;
+  margin: 15px 0 10px 0;
+}
+
+.tag {
+  font-size: 24px;
+  color: rgb(62, 62, 62);
+  text-align: center;
+}
+
+.location {
+  font-size: 20px;
+  text-align: center;
+  color: gray;
+  margin: 8px 0 15px 0;
+}
+
+.ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.li {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 115px;
+  padding: 15px;
+  background-color: rgb(140, 140, 140);
+}
